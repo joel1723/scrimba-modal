@@ -4,3 +4,23 @@ html, body {
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
   }
+
+  #close-modal , #contact-me{
+      background-color: royalblue;
+      cursor:pointer;
+      font-size: large;
+      padding: 20px;
+      
+      color: seashell;
+      
+  }
+
+  #modal{
+      background-color: orange;
+      padding: 20px;
+      margin: auto;
+      height: 200px;
+      max-width: 600px;
+  }
+  
+   
